@@ -23,12 +23,12 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 <p>In this dataset, we are having 12 channel signals as input</p>
 <img src = "Images/plot signals (1).png" width = 300 >
 <p>We then focused on to do some feature analysis such as EMD</p>
-<img src = "images/EMD.png" width = 300 >
+<img src = "Images/EMD.png" width = 300 >
 <p>Training Matrixes</p>
-<img src = "images/training.png" width = 300 >
+<img src = "Images/training.png" width = 300 >
 <p>Demo Prediction</p>
-<img src = "images/EMD.png" width = 300 >
+<img src = "Images/EMD.png" width = 300 >
 
 <h2>Urinanalysis</h2>
 <p>the proposed method for urinanalysis using AI</p>
-<img src = "images/urine.png" height = 400>
+<img src = "Images/urine.png" height = 400>
