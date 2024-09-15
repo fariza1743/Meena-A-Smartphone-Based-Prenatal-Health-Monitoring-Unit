@@ -21,7 +21,7 @@ The repository contains the project <a href="implemented_codes"> implemented cod
 
  
 <p>In this dataset, we are having 12 channel signals as input</p>
-<img src = "images/plot signals (1).png" width = 300 >
+<img src = "Images/plot signals (1).png" width = 300 >
 <p>We then focused on to do some feature analysis such as EMD</p>
 <img src = "images/EMD.png" width = 300 >
 <p>Training Matrixes</p>
